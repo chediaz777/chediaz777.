@@ -12,7 +12,7 @@
 <img alt="Coding GIF" height="160rem" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp" />
 </div>
 
-👨🏽‍💻 About Me
+ 🖥️ About Me
 
 
 🎓 Studying Full Stack Development & Cybersecurity
